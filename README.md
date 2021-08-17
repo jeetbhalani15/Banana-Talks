@@ -1,2 +1,2 @@
 # Banana Talks
- translat's from enlish to vulan
+ translates from english to vulcan
