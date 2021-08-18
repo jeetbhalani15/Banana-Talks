@@ -1,4 +1,4 @@
-@import url
+
 html {
     box-sizing: border-box;
     margin: 0;
@@ -8,8 +8,18 @@ html {
 body {
     margin: 0;
     padding: 0;
+    position: relative;
     font-family: "Mali", cursive;
-    background-color: #dbb2ec;;
+    background-image:url("vuclan.webp");
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    
+    
+
+
+
+    
 }
 
 .container {
@@ -61,7 +71,7 @@ footer {
     padding: 1rem 0;
     text-align: center;
     color: white;
-    background-color: black;
+    
     
 }
 
@@ -72,4 +82,4 @@ footer .dev {
 footer .dev .link {
     font-weight: 600;
     text-decoration: none;
-    color: rgb(100, 255, 255);
+    color: rgb(100, 255, 255);}
